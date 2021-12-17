@@ -3,6 +3,15 @@
 <head>
 <title>CSS Template</title>
 html, 
+#div1 {
+  background: url(suz.jpg);
+  background-size: 100px 80px;
+  background-repeat: no-repeat;
+}#div1 {
+  background: url(suz.jpg);
+  background-size: 100px 80px;
+  background-repeat: no-repeat;
+}
 <style>
 body {
  background-color: F4D35E;
