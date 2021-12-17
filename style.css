@@ -3,10 +3,13 @@
 <head>
 <title>CSS Template</title>
 html, body {
-background: #F4D35E;
+<style>
+body {
+  background-color: F4D35E;
+}
+</style>
 font-family: 'Lato', helvetica, arial, sans-serif;
 
-color: #50AAA9;
 }
 
 p {
