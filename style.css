@@ -10,7 +10,7 @@ color: #50AAA9;
 }
 
 p {
-
+ font-size: 14px;
 
 color: #709CD1;
 }
@@ -19,16 +19,17 @@ h1 {
 
 border-bottom: 1px solid #846C5B;
 padding: 20px 0 0;
+  font-size: 40px;
 }
 
 h2 {
-
+ font-size: 30px;
 color: red;
 padding: 20px 0 0;
 }
 
 h3 {
-
+ font-size: 20px;
 color: red;
 padding: 20px 0 0;
 }
