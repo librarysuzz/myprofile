@@ -3,7 +3,7 @@
 <head>
 <title>CSS Template</title>
 html, body {
-background: #0B132B;
+background: #F4D35E;
 font-family: 'Lato', helvetica, arial, sans-serif;
 font-size: 16px;
 color: #50AAA9;
@@ -17,17 +17,19 @@ color: #709CD1;
 }
 
 h1 {
-border-bottom: 1px solid #5BC0BE;
+border-bottom: 1px solid #846C5B;
 padding: 20px 0 0;
 }
 
 h2 {
-font-size: 20px;
 color: red;
 padding: 20px 0 0;
 }
 
-
+h3 {
+color: red;
+padding: 20px 0 0;
+}
 
 </body>
 </html>
