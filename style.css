@@ -3,20 +3,7 @@
 <head>
 <title>CSS Template</title>
 html, 
-#div1 {
-  background: url(suz.jpg);
-  background-size: 100px 80px;
-  background-repeat: no-repeat;
-}#div1 {
-  background: url(suz.jpg);
-  background-size: 100px 80px;
-  background-repeat: no-repeat;
-  h1 {
-border-bottom: 1px solid #846C5B;
-padding: 20px 0 0;
-  font-size: 40px;
-}
-}
+
 <style>
 body {
  background-color: F4D35E;
@@ -25,7 +12,11 @@ body {
 </style>
 font-family: 'Lato', helvetica, arial, sans-serif;
 
-}
+h1 {
+border-bottom: 1px solid #846C5B;
+padding: 20px 0 0;
+  font-size: 40px;
+}}
 
 p {
  font-size: 15px;
