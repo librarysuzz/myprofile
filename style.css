@@ -13,7 +13,7 @@ font-family: 'Lato', helvetica, arial, sans-serif;
 }
 
 p {
- font-size: 14px;
+ font-size: 15px;
 }
 
 h1 {
@@ -25,13 +25,13 @@ padding: 20px 0 0;
 
 h2 {
  font-size: 30px;
-color: red;
+color: blue;
 padding: 20px 0 0;
 }
 
 h3 {
  font-size: 20px;
-color: red;
+color: blue;
 padding: 20px 0 0;
 }
 
